@@ -12,12 +12,19 @@
     "min_interval_seconds": 180
   },
   "rewarded": {
-    "enabled": true,
-    "unlock_minutes": 30,
-    "optional_features": [
-      "advanced_comparison",
-      "amortization_details"
-    ]
+  "enabled": true,
+  "unlock_minutes": 30,
+  "optional_features": [
+    "personal_loan",
+    "motorcycle_financing",
+    "car_financing",
+    "housing_financing",
+    "payroll_loan",
+    "financial_analysis",
+    "advanced_comparison",
+    "amortization_details"
+  ]
+}
   },
   "native": {
     "enabled": false

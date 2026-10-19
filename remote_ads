@@ -8,7 +8,7 @@
     "placement": "top"
   },
   "interstitial": {
-    "enabled": false,
+    "enabled": true,
     "min_interval_seconds": 180
   },
   "rewarded": {
@@ -27,10 +27,10 @@
 }
   },
   "native": {
-    "enabled": false
+    "enabled": true
   },
   "app_open": {
-    "enabled": false,
+    "enabled": true,
     "min_interval_seconds": 300
   },
   "android_test_ad_units": {

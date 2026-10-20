@@ -2,7 +2,7 @@
   "schema_version": 1,
   "ads_enabled": true,
   "test_mode": true,
-  "cache_ttl_minutes": 60,
+  "cache_ttl_minutes": 10,
   "banner": {
     "enabled": true,
     "placement": "top"

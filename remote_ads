@@ -12,7 +12,7 @@
     "min_interval_seconds": 180
   },
   "rewarded": {
-  "enabled": false,
+  "enabled": true,
   "unlock_minutes": 30,
   "optional_features": [
     "personal_loan",
